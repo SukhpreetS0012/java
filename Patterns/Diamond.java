@@ -5,7 +5,7 @@ class Diamond{
 		System.out.println("Enter a number: ");
 		int n=sc.nextInt();
 		int i,j,k;
-		System.out.println("Diamond Pattern:-");
+		System.out.println("Diamond Pattern:");
 		for(i=1; i<=n; i++){
 			for(j=n; j>i; j--){
 				System.out.print(" ");
